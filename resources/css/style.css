@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #EAEBED;
+    background-color: white;
     color: #424949;
 }
 
@@ -31,7 +31,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #A3BAC3;
+    background-color: white;
     height: 4rem;
     width: 100%;
     top: 0;
@@ -44,7 +44,7 @@ p {
     display: none;
     justify-content: center;
     align-items: center;
-    background-color: #A3BAC3;
+    background-color: white;
     height: 4rem;
     width: 100%;
     top: 0;
